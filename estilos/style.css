@@ -54,8 +54,6 @@ body{
 
 .item{
     display:flex;
-    
-
     flex-direction: column;
     margin-bottom: 2%;
 }
@@ -80,6 +78,7 @@ form{
     margin-top: 20px;
     margin-bottom: 20px;
     height:550px;
+
 }
 
 .login{
